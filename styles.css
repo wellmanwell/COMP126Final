@@ -40,7 +40,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    font-family: futura;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 6vw;
     position: relative;
     
@@ -62,10 +62,7 @@ ul {
     color: #F0451F;
   }
   
-@font-face {
-    font-family: futura;
-    src: url(futura/futura\ medium\ condensed\ bt.ttf);
- }
+
 main{
     grid-area: main;
     background-color: #F7F3E3;
@@ -98,7 +95,7 @@ button {
     border-radius: 20px 10px;
     height: 70px;
     width: 200px;
-    font-family: futura;
+    font-family: verdana;
     font-size: 32px;
     
   }
@@ -116,7 +113,7 @@ button:hover {
     margin: 20px 10px 20px ;
     background-color: #0AD3FF;
     font-size: 18pt;
-    font-family: futura;
+    font-family: verdana;
     color: #264027;
     text-align: center;
   }
@@ -128,7 +125,7 @@ footer{
     grid-area: footer;
     background-color: #0AD3FF;
     text-align: center;
-    font-family: futura;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #264027;
     font-size: 14pt;
 }
@@ -160,8 +157,8 @@ footer{
         margin: 0;
         padding: 0;
         overflow: hidden;
-        font-family: futura;
-        font-size: 4vw;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 2.5vw;
         position: relative;
         
       }
@@ -195,9 +192,9 @@ footer{
         cursor: pointer;
         border-radius: 20px 10px;
         height: 70px;
-        width: 200px;
-        font-family: futura;
-        font-size: 32px;
+        width: 230px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 24px;
         
       }
       
