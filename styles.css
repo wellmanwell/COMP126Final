@@ -6,7 +6,7 @@ body{
     margin: 0;
     display: grid;
     grid-template-columns: 40% auto auto;
-    grid-template-rows: 21% 8% auto 12.5%;
+    grid-template-rows: 21% 8% auto 15%;
     grid-template-areas: 
         "header header header"
         "navbar navbar navbar"
@@ -96,7 +96,7 @@ button {
     height: 70px;
     width: 200px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 32px;
+    font-size: 28px;
     
   }
   
