@@ -95,7 +95,7 @@ button {
     border-radius: 20px 10px;
     height: 70px;
     width: 200px;
-    font-family: verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 32px;
     
   }
@@ -113,7 +113,7 @@ button:hover {
     margin: 20px 10px 20px ;
     background-color: #0AD3FF;
     font-size: 18pt;
-    font-family: verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #264027;
     text-align: center;
   }
